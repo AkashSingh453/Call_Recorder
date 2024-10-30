@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MouseBadger" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Helper" parent="android:Theme.DeviceDefault.Light.Dialog.Alert" />
+</resources>
